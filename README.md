@@ -1,0 +1,4 @@
+README
+======
+
+Simple blog app built on Rails. Made following step by step [This Guide](http://guides.rubyonrails.org/getting_started.html)
